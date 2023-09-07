@@ -18,4 +18,6 @@ buon viaggio! :faccia_leggermente_sorridente:
 
 1. calcolare lo sconto del 20% per i minorenni e per over 65 del 40%
 
+1. stampare l'output nella pagina web
+
 
